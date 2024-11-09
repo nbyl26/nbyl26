@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbyl26)](https://github.com/nbyl26/github-readme-stats)
 
 <!--
 **nbyl26/nbyl26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
