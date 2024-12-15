@@ -17,8 +17,7 @@
 ---
 
 ## 📊 Weekly Activity
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nbyl26)](https://wakatime.com/@nbyl26)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nbyl26&theme=default)](https://git.io/streak-stats)
 
 ---
 
