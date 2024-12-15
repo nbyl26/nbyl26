@@ -1,18 +1,39 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbyl26)]([https://github.com/nbyl26/github-readme-stats](https://camo.githubusercontent.com/2c620417073a23213f5a1baab7ea44dbd4cd585b15f4f5a13946635bc35552d9/68747470733a2f2f6769746875622d726561646d652d73746174732d74687265652d6f6d6567612d37392e76657263656c2e6170702f6170693f757365726e616d653d6d66617a72696e697a61722673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d697473))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbyl26)](https://github.com/nbyl26/github-readme-stats)
 
-<!--
-**nbyl26/nbyl26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🔭 I’m currently working on **Visual Programming Projects**
+- 🌱 I’m currently learning **Java, Swing, and Backend Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Database Optimization**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I love coding while listening to lo-fi beats 🎧
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nbyl26&theme=onedark&row=1&column=6)
+
+---
+
+## 📊 Weekly Activity
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nbyl26)](https://wakatime.com/@nbyl26)
+
+---
+
+## 📂 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nbyl26&repo=project1)](https://github.com/nbyl26/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nbyl26&repo=project2)](https://github.com/nbyl26/project2)
+
+---
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=web&logoColor=white)](https://your-portfolio.com)
+
+---
+
+<!-- Additional custom sections if needed -->
+
