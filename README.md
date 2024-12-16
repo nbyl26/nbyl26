@@ -17,7 +17,7 @@
 ---
 
 ## 📊 Weekly Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=nbyl26&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nbyl26&theme=default)](https://streak-stats.demolab.com?user=nbyl26&theme=default)
 
 ---
 
