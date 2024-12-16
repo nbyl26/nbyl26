@@ -12,7 +12,7 @@
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nbyl26&theme=onedark&row=1&column=6)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nbyl26&theme=onedark&row=1&column=4)
 
 ---
 
