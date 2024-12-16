@@ -17,9 +17,7 @@
 ---
 
 ## 📊 Weekly Activity
-<a href="https://streak-stats.demolab.com?user=nbyl26&theme=default" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=nbyl26&theme=default" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=nbyl26&theme=default)
 
 ---
 
