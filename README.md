@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbyl26)](https://github.com/nbyl26/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbyl26)
 
 ## 👨‍💻 About Me
 - 🎓 I’m an Informatics Engineering student passionate about technology and innovation.
