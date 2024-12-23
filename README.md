@@ -24,6 +24,8 @@
 ## 📊 Weekly Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=nbyl26&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nbyl26&theme=nightowl)](https://git.io/streak-stats)
+
 ---
 
 ## 🌐 Let's Connect!
