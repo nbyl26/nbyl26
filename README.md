@@ -1,5 +1,4 @@
 # Hi there 👋
-
 <div align="center">
 
 <a href="https://github.com/nbyl26">
@@ -17,7 +16,7 @@
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nbyl26&theme=onedark&row=1&column=4)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nbyl26&theme=onedark&row=1&column=5)
 
 ---
 
